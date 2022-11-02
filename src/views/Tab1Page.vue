@@ -70,7 +70,6 @@
           </ion-col>
         </ion-row>
       </ion-grid>
-
       <ion-title>TOTAL BERAT IKAN</ion-title>
       <div id="container-fluid">
         <ion-grid>
@@ -90,11 +89,9 @@
               </ion-card-header>
             </ion-card>
             </ion-col>
-
           </ion-row>
         </ion-grid>
       </div>
-
       <ion-grid>
         <ion-row text-center>
         </ion-row>
