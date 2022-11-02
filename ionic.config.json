@@ -1,0 +1,8 @@
+{
+  "name": "hw2hci",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "696cdc40"
+}
